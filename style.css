@@ -1,0 +1,39 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: navy;
+  background-color: yellow;
+  padding: 10px;
+}
+
+h2 {
+  color: darkblue;
+  margin-top: 20px;
+}
+
+p {
+  color: darkgreen;
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 8px;
+  text-align: center;
+}
+
+form input[type="text"],
+form input[type="email"] {
+  width: 200px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
